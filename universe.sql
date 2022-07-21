@@ -91,7 +91,7 @@ CREATE TABLE public.galaxy_types (
     galaxy_types_id integer NOT NULL,
     name character varying(30) NOT NULL,
     galaxy_type character varying(30)
-);
+)
 
 
 ALTER TABLE public.galaxy_types OWNER TO freecodecamp;
